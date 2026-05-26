@@ -17,7 +17,7 @@ a {
 }
 
 html {
-  background: linear-gradient(135deg, #141432 0%, #1e1248 50%, #122040 100%);
+  background: linear-gradient(135deg, #151536 0%, #230c3f 50%, #111d38 100%);
   background-attachment: fixed;
   animation: gradientIntro 3s ease-out forwards;
 }
@@ -426,7 +426,7 @@ footer {
   background: linear-gradient(180deg, #0e0a2a 0%, #0a0820 100%);
   border-top: 1px solid rgba(168, 85, 247, 0.25);
   width: 100%;
-  min-height: 70vh;
+  min-height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
