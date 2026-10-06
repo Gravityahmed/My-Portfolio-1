@@ -170,7 +170,7 @@ p {
 
 .certificate-card:hover {
   transform: translateY(-4px);
-  border-color: rgba(168, 85, 247, 0.55);
+  border-color: rgb(255, 255, 255);
   box-shadow: 0 12px 30px rgba(100, 80, 255, 0.18);
 }
 
@@ -532,7 +532,7 @@ i {
   flex-direction: column;
   min-width: 0;
   overflow: hidden;
-  border: 1px solid rgba(168, 85, 247, 0.2);
+  border: 1px solid rgba(168, 85, 247, 0.55);
   border-radius: 1.25rem;
   background: rgba(255, 255, 255, 0.04);
   color: inherit;
@@ -545,7 +545,8 @@ i {
 
 .project-card:hover {
   transform: translateY(-5px);
-  border-color: rgba(168, 85, 247, 0.55);
+  
+  border: 2px solid rgba(255, 255, 255, 1);
   box-shadow: 0 16px 36px rgba(24, 14, 70, 0.35);
 }
 
@@ -810,7 +811,7 @@ h1.Checkmeout {
 
 .icons2 a:hover {
   transform: translateY(-5px);
-  outline: 4px solid rgba(168, 85, 247, 0.5);
+  outline: 3px solid rgba(255, 255, 255, 1);
 }
 
 .icons2 a img {
